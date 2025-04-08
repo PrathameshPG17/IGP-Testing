@@ -36,9 +36,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
- # Added new Feature   
-
- # This is main ()
-
